@@ -1,0 +1,15 @@
+{
+  "short_name": "Realtime TFJS",
+  "name": "Realtime Object Detection with TensorflowJS and ReactJS",
+  "icons": [
+    {
+      "src": "tensorflowjs-logo.png",
+      "type": "image/png",
+      "sizes": "250x250"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
